@@ -7,3 +7,5 @@ tugas latihan 6
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/java%20application%206.png)
 tugas latihan 7
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/java%20application%207.png)
+tugas latihan 8
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/java%20application%208.png)
