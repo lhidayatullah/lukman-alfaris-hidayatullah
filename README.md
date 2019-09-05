@@ -13,3 +13,5 @@ tugas latihan 9.1
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/jobsheet%208.1.png)
 tugas latihan 9.2
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/jobsheet%208.2.png)
+tugas latihan perulangan
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/java%20application%209.png)
