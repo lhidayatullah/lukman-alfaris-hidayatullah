@@ -18,4 +18,4 @@ tugas latihan perulangan
 tugas Array chalenge 
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/chalenge%201%20array.png)
 tugas Array chalenge lanjutan 
-![Alt text}(https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/chalenge%201%20array%201.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/chalenge%201%20array%201.png)
