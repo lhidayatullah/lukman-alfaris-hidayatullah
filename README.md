@@ -19,3 +19,11 @@ tugas Array chalenge
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/chalenge%201%20array.png)
 tugas Array chalenge lanjutan 
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/chalenge%201%20array%201.png)
+tugas praktikum 1
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20praktikum%20array%201.png)
+tugas praktikum 2
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20praktikum%20array%202.png)
+tugas praktikum 3
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20praktikum%20array%203.png)
+tugas praktikum 4
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20praktikum%20array%204.png)
