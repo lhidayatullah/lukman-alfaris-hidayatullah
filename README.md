@@ -27,3 +27,7 @@ tugas praktikum 3
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20praktikum%20array%203.png)
 tugas praktikum 4
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20praktikum%20array%204.png)
+tugas kalkulator sederhana (program)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20kalkulator%20sederhana.png)
+tugas kalkulator sederhana (run)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20kalkulator%20sederhana(run).png)
