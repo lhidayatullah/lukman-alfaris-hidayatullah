@@ -31,3 +31,20 @@ tugas kalkulator sederhana (program)
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20kalkulator%20sederhana.png)
 tugas kalkulator sederhana (run)
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20kalkulator%20sederhana(run).png)
+Materi PBO
+Latihan 1
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/latihan%201.png)
+Latihan 2
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/latihan%202.png)
+Latihan 3
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/latihan%203.png)
+Latihan 4
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/latihan%204.png)
+Latihan 5
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/latihan%205.png)
+Tugas Luas Permukaan Bola
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20luas%20permukaan%20(bola).png)
+Tugas Luas Permukaan Balok
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20luas%20permukaan%20(balok).png)
+Tugas Datadiri
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20datadiri.png)
