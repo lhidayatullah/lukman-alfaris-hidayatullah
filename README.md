@@ -48,3 +48,7 @@ Tugas Luas Permukaan Balok
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20luas%20permukaan%20(balok).png)
 Tugas Datadiri
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/tugas%20datadiri.png)
+Tugas Chalenge kasir
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/Untitled.pn)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/Untitled2.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/Untitled3.png)
