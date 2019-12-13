@@ -35,3 +35,6 @@ Tugas PBO 3 GUI Kuis 2
 ![Alt Text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/kuis2.2.png)
 Tugas PBO 3 GUI UjiKebolehan
 ![Alt Text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/ujikebolehan.png)
+tugas pbo 2 encapsulasi
+![Alt Text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bus.png)
+![Alt Text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bus2.png)
