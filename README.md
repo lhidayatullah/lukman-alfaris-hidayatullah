@@ -7,17 +7,6 @@ Tugas BOOTSTRAP
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%205.png)
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%206.png)
 ![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%207.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%208.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%209.png)
 
