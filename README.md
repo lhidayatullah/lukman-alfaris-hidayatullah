@@ -1,9 +1,3 @@
 # lukman-alfaris-hidayatullah
 Tugas BOOTSTRAP
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bs%201.html)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bs%202.html)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bs%203.html)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bs%204.html)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bs%205.html)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bs%206.html)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bs%207.html)
+![Alt text]()
