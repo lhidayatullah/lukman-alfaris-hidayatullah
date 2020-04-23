@@ -1,12 +1,15 @@
 # lukman-alfaris-hidayatullah
-Tugas BOOTSTRAP
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%201.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%202.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%203.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%204.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%205.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%206.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%207.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%208.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bss%209.png)
-
+Tugas Akhir Web Corona
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bag%201.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%201.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%202.1.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%202.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%202.1.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%203.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%204.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%20tidak.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%205.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%20tidak.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%206.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%20tidak%202.png)
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%207.png)
