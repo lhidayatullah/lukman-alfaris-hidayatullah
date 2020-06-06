@@ -1,0 +1,946 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-BmnGTzITfSCD9SKlVfngZdzNq8Fa33lRq00rF1eRsg4zcCH3VtX8QtS6687+5GdeaVj1LzKyLj6+oXJLcswj6w==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-0669c64f32137d2083f522a555f9e065.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-IX5BoM4/CZcF+rw+yhDLhCjHTA1gz+F8rA3dQU3p7CFWAx1qGb+MVztQXTLG7jyLCn2kDGNZkp3pHjbL9Ac4kw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-217e41a0ce3f099705fabc3eca10cb84.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-oskjA1HEwZq5HoCKRZWoUhAoBLeFfX5lCdbSsUB2Bkemb1XNH7rXMMrxJ+YTQMunfXVXY1eRDeEyL0527syBBw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-a2c9230351c4c19ab91e808a4595a852.css" />
+    
+    
+    
+    
+
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>siperpus/bootstrap-grid.min.css.map at master · fadhilrazzan/siperpus · GitHub</title>
+    <meta name="description" content="Contribute to fadhilrazzan/siperpus development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/54299052?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="fadhilrazzan/siperpus" /><meta name="twitter:description" content="Contribute to fadhilrazzan/siperpus development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/54299052?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="fadhilrazzan/siperpus" /><meta property="og:url" content="https://github.com/fadhilrazzan/siperpus" /><meta property="og:description" content="Contribute to fadhilrazzan/siperpus development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  
+
+  <meta name="request-id" content="31EA:7D63:309BF9:547CAE:5EDAF7CA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b534253137cfd8205ae5b21f564486c2818d5888" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mYWRoaWxyYXp6YW4vc2lwZXJwdXMvdHJlZS9tYXN0ZXIvc2lwZXJwdXMvYXNzZXRzL2NzcyIsInJlcXVlc3RfaWQiOiIzMUVBOjdENjM6MzA5QkY5OjU0N0NBRTo1RURBRjdDQSIsInZpc2l0b3JfaWQiOiIxMDE4NTkxMDgyNTI0NDk3ODkzIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="17c5f7761260d25dbcb60f8b7b5fed53cb4a0830b85f03d3329b7fdd54150a20" data-pjax-transient="true"/>
+
+
+
+  <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+<meta name="optimizely-sdk-key" content="cowimJNste4j7QnBNCjaw" />
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+
+      <meta name="expected-hostname" content="github.com">
+
+
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_CHUNKING">
+
+  <meta http-equiv="x-pjax-version" content="2427884fafeb5e02c2dfe9ab2f4f9f4c">
+  
+
+      <link href="https://github.com/fadhilrazzan/siperpus/commits/master.atom" rel="alternate" title="Recent Commits to siperpus:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/fadhilrazzan/siperpus git https://github.com/fadhilrazzan/siperpus.git">
+
+  <meta name="octolytics-dimension-user_id" content="54299052" /><meta name="octolytics-dimension-user_login" content="fadhilrazzan" /><meta name="octolytics-dimension-repository_id" content="253568573" /><meta name="octolytics-dimension-repository_nwo" content="fadhilrazzan/siperpus" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="253568573" /><meta name="octolytics-dimension-repository_network_root_nwo" content="fadhilrazzan/siperpus" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/fadhilrazzan/siperpus/blob/master/siperpus/assets/css/bootstrap-grid.min.css.map" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-responsive page-blob">
+    
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+      <span class="Progress progress-pjax-loader position-fixed width-full js-pjax-loader-bar">
+        <span class="progress-pjax-loader-bar top-0 left-0" style="width: 0%;"></span>
+      </span>
+
+      
+      
+
+
+
+          <header class="Header-old header-logged-out js-details-container Details position-relative f4 py-2" role="banner">
+  <div class="container-lg d-lg-flex flex-items-center p-responsive">
+    <div class="d-flex flex-justify-between flex-items-center">
+        <a class="mr-4" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+        </a>
+
+          <div class="d-lg-none css-truncate css-truncate-target width-fit p-2">
+            
+                <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+    <a class="Header-link" href="/fadhilrazzan">fadhilrazzan</a>
+    /
+    <a class="Header-link" href="/fadhilrazzan/siperpus">siperpus</a>
+
+
+          </div>
+
+        <div class="d-flex flex-items-center">
+              <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
+                class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/fadhilrazzan/siperpus/blob/master/siperpus/assets/css/bootstrap-grid.min.css.map&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8fb01c2d73fc8d3d44014753476f9ada2f369ce800082881dccf9511c1323005"
+                data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
+                Sign&nbsp;up
+              </a>
+
+          <button class="btn-link d-lg-none mt-1 js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+            <svg height="24" class="octicon octicon-three-bars text-white" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"></path></svg>
+          </button>
+        </div>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-flex d-lg-none flex-justify-end border-bottom bg-gray-light p-3">
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+        </button>
+      </div>
+
+        <nav class="mt-0 px-3 px-lg-0 mb-5 mb-lg-0" aria-label="Global">
+          <ul class="d-lg-flex list-style-none">
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Why GitHub?
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <a href="/features" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Features">Features <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+                    <ul class="list-style-none f5 pb-3">
+                      <li class="edge-item-fix"><a href="/features/code-review/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code review">Code review</a></li>
+                      <li class="edge-item-fix"><a href="/features/project-management/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Project management">Project management</a></li>
+                      <li class="edge-item-fix"><a href="/features/integrations" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Integrations">Integrations</a></li>
+                      <li class="edge-item-fix"><a href="/features/actions" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Actions">Actions</a></li>
+                      <li class="edge-item-fix"><a href="/features/packages" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Packages">Packages</a></li>
+                      <li class="edge-item-fix"><a href="/features/security" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Security">Security</a></li>
+                      <li class="edge-item-fix"><a href="/features#team-management" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Team management">Team management</a></li>
+                      <li class="edge-item-fix"><a href="/features#hosting" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code hosting">Hosting</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/customer-stories" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Customer stories">Customer stories <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="/security" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Security">Security <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Team">Team</a>
+              </li>
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Enterprise">Enterprise</a>
+              </li>
+
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Explore
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/explore" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Explore">Explore GitHub <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Learn &amp; contribute</h4>
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/topics" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Topics">Topics</a></li>
+                        <li class="edge-item-fix"><a href="/collections" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Collections">Collections</a></li>
+                      <li class="edge-item-fix"><a href="/trending" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Trending">Trending</a></li>
+                      <li class="edge-item-fix"><a href="https://lab.github.com/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Learning lab">Learning Lab</a></li>
+                      <li class="edge-item-fix"><a href="https://opensource.guide" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Open source guides">Open source guides</a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Connect with others</h4>
+                    <ul class="list-style-none mb-0">
+                      <li class="edge-item-fix"><a href="https://github.com/events" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Events">Events</a></li>
+                      <li class="edge-item-fix"><a href="https://github.community" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Community forum">Community forum</a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Education">GitHub Education</a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Marketplace">Marketplace</a>
+              </li>
+
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Pricing
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                       <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-4 mt-0 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <a href="/pricing" class="pb-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Pricing">Plans <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/pricing#feature-comparison" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Compare plans">Compare plans</a></li>
+                      <li class="edge-item-fix"><a href="https://enterprise.github.com/contact" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Contact Sales">Contact Sales</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/nonprofit" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Nonprofits">Nonprofit <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover"  data-ga-click="(Logged out) Header, go to Education">Education <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+          </ul>
+        </nav>
+
+      <div class="d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left">
+          <div class="d-lg-flex mb-3 mb-lg-0">
+            <div class="header-search header-search-current js-header-search-current flex-self-stretch flex-lg-self-auto mr-0 mr-lg-3 mb-3 mb-lg-0 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="253568573" data-scoped-search-url="/fadhilrazzan/siperpus/search" data-unscoped-search-url="/search" action="/fadhilrazzan/siperpus/search" accept-charset="UTF-8" method="get">
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="YfihD/LtlDw2nNtjHwY4Iin6sAKnAAPj1HGpN0fCk+aHKOgPjVdqDwPj8Cch5ilgtJrGEV+XCzNSfrPIchec5g==" />
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="text-gray">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <a href="/login?return_to=%2Ffadhilrazzan%2Fsiperpus%2Fblob%2Fmaster%2Fsiperpus%2Fassets%2Fcss%2Fbootstrap-grid.min.css.map"
+          class="HeaderMenu-link no-underline mr-3"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/fadhilrazzan/siperpus/blob/master/siperpus/assets/css/bootstrap-grid.min.css.map&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="32ed3f8092e480855e2967b90096ae37ca9fe00cffab3514b59056343120546e"
+          data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
+          Sign&nbsp;in
+        </a>
+            <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=fadhilrazzan%2Fsiperpus"
+              class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/fadhilrazzan/siperpus/blob/master/siperpus/assets/css/bootstrap-grid.min.css.map&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="32ed3f8092e480855e2967b90096ae37ca9fe00cffab3514b59056343120546e"
+              data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
+              Sign&nbsp;up
+            </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+    <div id="js-flash-container">
+
+
+  <template class="js-flash-template">
+    <div class="flash flash-full  js-flash-template-container">
+  <div class="container-lg px-2" >
+    <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+    </button>
+    
+      <div class="js-flash-template-message"></div>
+
+  </div>
+</div>
+  </template>
+</div>
+
+
+      
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main  >
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead hx_repohead readability-menu bg-gray-light pb-0 pt-0 pt-lg-3">
+
+    <div class="d-flex container-lg mb-4 p-responsive d-none d-lg-flex">
+
+      <div class="flex-auto min-width-0 width-fit mr-3">
+        <h1 class="public  d-flex flex-wrap flex-items-center break-word float-none ">
+  <span class="flex-self-stretch" style="margin-top: -2px;">
+      <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+  </span>
+  <span class="author ml-2 flex-self-stretch" itemprop="author">
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/fadhilrazzan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fadhilrazzan">fadhilrazzan</a>
+  </span>
+  <span class="path-divider flex-self-stretch">/</span>
+  <strong itemprop="name" class="mr-2 flex-self-stretch">
+    <a data-pjax="#js-repo-pjax-container" href="/fadhilrazzan/siperpus">siperpus</a>
+  </strong>
+  
+</h1>
+
+
+      </div>
+
+      <ul class="pagehead-actions flex-shrink-0 " >
+
+
+
+
+  <li>
+    
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/fadhilrazzan/siperpus/blob/master/siperpus/assets/css/bootstrap-grid.min.css.map&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="edaddc1cbd8f52793385e5e59781608e4eb57ee5201c47aa34e84c1184170fcd" href="/login?return_to=%2Ffadhilrazzan%2Fsiperpus">
+    <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+    Watch
+</a>    <a class="social-count" href="/fadhilrazzan/siperpus/watchers"
+       aria-label="1 user is watching this repository">
+      1
+    </a>
+
+  </li>
+
+  <li>
+        <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:253568573,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/fadhilrazzan/siperpus/blob/master/siperpus/assets/css/bootstrap-grid.min.css.map&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f2e3d6e7476818690c70927275f088a4af20386f44282ba8de3646314b17dc51" href="/login?return_to=%2Ffadhilrazzan%2Fsiperpus">
+      <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+
+      Star
+</a>
+    <a class="social-count js-social-count" href="/fadhilrazzan/siperpus/stargazers"
+      aria-label="0 users starred this repository">
+      0
+    </a>
+
+  </li>
+
+  <li>
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:253568573,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/fadhilrazzan/siperpus/blob/master/siperpus/assets/css/bootstrap-grid.min.css.map&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0fb8d66fe117346c2f7b8131bd0667fd63951194385aa24ac11eb0efdf267a30" href="/login?return_to=%2Ffadhilrazzan%2Fsiperpus">
+        <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+        Fork
+</a>
+    <a href="/fadhilrazzan/siperpus/network/members" class="social-count"
+       aria-label="0 users forked this repository">
+      0
+    </a>
+  </li>
+</ul>
+
+    </div>
+      <nav class="js-repo-nav js-sidenav-container-pjax clearfix hx_reponav reponav p-responsive d-none d-lg-block container-lg"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+    aria-label="Repository"
+     data-pjax="#js-repo-pjax-container">
+  <ul class="list-style-none">
+    <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /fadhilrazzan/siperpus" href="/fadhilrazzan/siperpus">
+        <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg></div>
+        <span itemprop="name">Code</span>
+        <meta itemprop="position" content="1">
+</a>    </li>
+
+      <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /fadhilrazzan/siperpus/issues" href="/fadhilrazzan/siperpus/issues">
+          <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></div>
+          <span itemprop="name">Issues</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="2">
+</a>      </li>
+
+    <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /fadhilrazzan/siperpus/pulls" href="/fadhilrazzan/siperpus/pulls">
+        <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg></div>
+        <span itemprop="name">Pull requests</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="4">
+</a>    </li>
+
+
+      <li itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement" class="position-relative float-left ">
+        <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /fadhilrazzan/siperpus/actions" href="/fadhilrazzan/siperpus/actions">
+          <div class="d-inline"><svg class="octicon octicon-play" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8A7 7 0 110 8a7 7 0 0114 0zm-8.223 3.482l4.599-3.066a.5.5 0 000-.832L5.777 4.518A.5.5 0 005 4.934v6.132a.5.5 0 00.777.416z"></path></svg></div>
+          Actions
+</a>
+      </li>
+
+      <li >
+        <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /fadhilrazzan/siperpus/projects" href="/fadhilrazzan/siperpus/projects">
+          <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg></div>
+          Projects
+          <span class="Counter">0</span>
+</a>      </li>
+
+
+      <li >
+        <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /fadhilrazzan/siperpus/security" href="/fadhilrazzan/siperpus/security">
+          <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"></path></svg></div>
+          Security
+              <span class="Counter js-security-tab-count" data-url="/fadhilrazzan/siperpus/security/overall-count" hidden></span>
+</a>      </li>
+
+      <li >
+        <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /fadhilrazzan/siperpus/pulse" href="/fadhilrazzan/siperpus/pulse">
+          <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"></path></svg></div>
+          Insights
+</a>      </li>
+
+
+  </ul>
+</nav>
+
+  <div class="reponav-wrapper reponav-small d-lg-none">
+  <nav class="reponav js-reponav text-center no-wrap"
+       itemscope
+       itemtype="http://schema.org/BreadcrumbList">
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /fadhilrazzan/siperpus" href="/fadhilrazzan/siperpus">
+        <span itemprop="name">Code</span>
+        <meta itemprop="position" content="1">
+</a>    </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /fadhilrazzan/siperpus/issues" href="/fadhilrazzan/siperpus/issues">
+          <span itemprop="name">Issues</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="2">
+</a>      </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /fadhilrazzan/siperpus/pulls" href="/fadhilrazzan/siperpus/pulls">
+        <span itemprop="name">Pull requests</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="4">
+</a>    </span>
+
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /fadhilrazzan/siperpus/projects" href="/fadhilrazzan/siperpus/projects">
+          <span itemprop="name">Projects</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="5">
+</a>      </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /fadhilrazzan/siperpus/actions" href="/fadhilrazzan/siperpus/actions">
+          <span itemprop="name">Actions</span>
+          <meta itemprop="position" content="6">
+</a>      </span>
+
+
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /fadhilrazzan/siperpus/security" href="/fadhilrazzan/siperpus/security">
+        <span itemprop="name">Security</span>
+            <span class="Counter js-security-deferred-tab-count" hidden></span>
+        <meta itemprop="position" content="8">
+</a>
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /fadhilrazzan/siperpus/pulse" href="/fadhilrazzan/siperpus/pulse">
+        Pulse
+</a>
+
+  </nav>
+</div>
+
+
+  </div>
+
+  
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+<div class="container-lg clearfix new-discussion-timeline  p-responsive">
+  <div class="repository-content ">
+
+    
+    
+
+  
+
+
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/fadhilrazzan/siperpus/blob/2a2851d79d0b87722443ed5bbf6116114893a20c/siperpus/assets/css/bootstrap-grid.min.css.map">Permalink</a>
+
+    <!-- blob contrib key: blob_contributors:v22:aa639c58e3542b083cf037564b19e717 -->
+      <signup-prompt-controller class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
+    <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+      <div class="position-relative">
+        <button
+          type="button"
+          class="position-absolute top-0 right-0 btn-link link-gray"
+          data-action="click:signup-prompt-controller#dismiss"
+          data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss"
+        >
+          Dismiss
+        </button>
+        <h3 class="pt-2">Join GitHub today</h3>
+        <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/fadhilrazzan/siperpus/blob/master/siperpus/assets/css/bootstrap-grid.min.css.map&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e1c2111a220bf49494e48560c846ce2bc639c204fcf3a6d31a04d9fe1340adf9" href="/join?source=prompt-blob-show&amp;source_repo=fadhilrazzan%2Fsiperpus">Sign up</a>
+      </div>
+    </div>
+  </signup-prompt-controller>
+
+
+    <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
+      <span class="d-flex flex-justify-between width-full width-md-auto">
+        
+<details class="details-reset details-overlay branch-select-menu " id="branch-select-menu">
+  <summary class="btn css-truncate btn-sm"
+           data-hotkey="w"
+           title="Switch branches or tags">
+    <i>Branch:</i>
+    <span class="css-truncate-target" data-menu-button>master</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/fadhilrazzan/siperpus/refs/master/siperpus/assets/css/bootstrap-grid.min.css.map?source_action=show&amp;source_controller=blob" preload>
+    <div class="SelectMenu-modal">
+      <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
+        <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
+      </include-fragment>
+    </div>
+  </details-menu>
+</details>
+
+        <div class="BtnGroup flex-shrink-0 d-md-none">
+          <a href="/fadhilrazzan/siperpus/find/master"
+                class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+                data-pjax
+                data-hotkey="t">
+            Find file
+          </a>
+          <clipboard-copy value="siperpus/assets/css/bootstrap-grid.min.css.map" class="btn btn-sm BtnGroup-item">
+            Copy path
+          </clipboard-copy>
+        </div>
+      </span>
+      <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/fadhilrazzan/siperpus"><span>siperpus</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/fadhilrazzan/siperpus/tree/master/siperpus"><span>siperpus</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/fadhilrazzan/siperpus/tree/master/siperpus/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/fadhilrazzan/siperpus/tree/master/siperpus/assets/css"><span>css</span></a></span><span class="separator">/</span><strong class="final-path">bootstrap-grid.min.css.map</strong>
+      </h2>
+
+      <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
+        <a href="/fadhilrazzan/siperpus/find/master"
+              class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+              data-pjax
+              data-hotkey="t">
+          Find file
+        </a>
+        <clipboard-copy value="siperpus/assets/css/bootstrap-grid.min.css.map" class="btn btn-sm BtnGroup-item">
+          Copy path
+        </clipboard-copy>
+      </div>
+    </div>
+
+
+
+    <include-fragment src="/fadhilrazzan/siperpus/contributors/master/siperpus/assets/css/bootstrap-grid.min.css.map" class="Box Box--condensed commit-loader">
+      <div class="Box-body bg-blue-light f6">
+        Fetching contributors&hellip;
+      </div>
+
+      <div class="Box-body d-flex flex-items-center" >
+        <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
+
+
+
+
+
+    <div class="Box mt-3 position-relative
+      ">
+      
+<div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
+  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+
+      1 lines (1 sloc)
+      <span class="file-info-divider"></span>
+    74.4 KB
+  </div>
+
+  <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/fadhilrazzan/siperpus/raw/master/siperpus/assets/css/bootstrap-grid.min.css.map">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/fadhilrazzan/siperpus/blame/master/siperpus/assets/css/bootstrap-grid.min.css.map">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/fadhilrazzan/siperpus/commits/master/siperpus/assets/css/bootstrap-grid.min.css.map">History</a>
+    </div>
+
+
+    <div>
+          <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
+             data-platforms="windows,mac"
+             href="https://desktop.github.com"
+             aria-label="Open this file in GitHub Desktop"
+             data-ga-click="Repository, open with desktop">
+              <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
+          </a>
+
+          <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
+            aria-label="You must be signed in to make or propose changes">
+            <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
+          </button>
+          <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+            aria-label="You must be signed in to make or propose changes">
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
+          </button>
+    </div>
+  </div>
+</div>
+
+
+
+      
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">{&quot;version&quot;:3,&quot;sources&quot;:[&quot;../../scss/bootstrap-grid.scss&quot;,&quot;dist/css/bootstrap-grid.css&quot;,&quot;../../scss/_grid.scss&quot;,&quot;../../scss/mixins/_grid.scss&quot;,&quot;../../scss/mixins/_breakpoints.scss&quot;,&quot;../../scss/mixins/_grid-framework.scss&quot;,&quot;../../scss/utilities/_display.scss&quot;,&quot;../../scss/utilities/_flex.scss&quot;],&quot;names&quot;:[],&quot;mappings&quot;:&quot;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&quot;,&quot;sourcesContent&quot;:[&quot;/*!\n * Bootstrap Grid v4.0.0 (https://getbootstrap.com)\n * Copyright 2011-2018 The Bootstrap Authors\n * Copyright 2011-2018 Twitter, Inc.\n * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)\n */\n\n@at-root {\n  @-ms-viewport { width: device-width; } // stylelint-disable-line at-rule-no-vendor-prefix\n}\n\nhtml {\n  box-sizing: border-box;\n  -ms-overflow-style: scrollbar;\n}\n\n*,\n*::before,\n*::after {\n  box-sizing: inherit;\n}\n\n@import \&quot;functions\&quot;;\n@import \&quot;variables\&quot;;\n\n@import \&quot;mixins/breakpoints\&quot;;\n@import \&quot;mixins/grid-framework\&quot;;\n@import \&quot;mixins/grid\&quot;;\n\n@import \&quot;grid\&quot;;\n@import \&quot;utilities/display\&quot;;\n@import \&quot;utilities/flex\&quot;;\n&quot;,&quot;/*!\n * Bootstrap Grid v4.0.0 (https://getbootstrap.com)\n * Copyright 2011-2018 The Bootstrap Authors\n * Copyright 2011-2018 Twitter, Inc.\n * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)\n */\n@-ms-viewport {\n  width: device-width;\n}\n\nhtml {\n  box-sizing: border-box;\n  -ms-overflow-style: scrollbar;\n}\n\n*,\n*::before,\n*::after {\n  box-sizing: inherit;\n}\n\n.container {\n  width: 100%;\n  padding-right: 15px;\n  padding-left: 15px;\n  margin-right: auto;\n  margin-left: auto;\n}\n\n@media (min-width: 576px) {\n  .container {\n    max-width: 540px;\n  }\n}\n\n@media (min-width: 768px) {\n  .container {\n    max-width: 720px;\n  }\n}\n\n@media (min-width: 992px) {\n  .container {\n    max-width: 960px;\n  }\n}\n\n@media (min-width: 1200px) {\n  .container {\n    max-width: 1140px;\n  }\n}\n\n.container-fluid {\n  width: 100%;\n  padding-right: 15px;\n  padding-left: 15px;\n  margin-right: auto;\n  margin-left: auto;\n}\n\n.row {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -ms-flex-wrap: wrap;\n  flex-wrap: wrap;\n  margin-right: -15px;\n  margin-left: -15px;\n}\n\n.no-gutters {\n  margin-right: 0;\n  margin-left: 0;\n}\n\n.no-gutters &gt; .col,\n.no-gutters &gt; [class*=\&quot;col-\&quot;] {\n  padding-right: 0;\n  padding-left: 0;\n}\n\n.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,\n.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm,\n.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md,\n.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg,\n.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl,\n.col-xl-auto {\n  position: relative;\n  width: 100%;\n  min-height: 1px;\n  padding-right: 15px;\n  padding-left: 15px;\n}\n\n.col {\n  -ms-flex-preferred-size: 0;\n  flex-basis: 0;\n  -webkit-box-flex: 1;\n  -ms-flex-positive: 1;\n  flex-grow: 1;\n  max-width: 100%;\n}\n\n.col-auto {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 auto;\n  flex: 0 0 auto;\n  width: auto;\n  max-width: none;\n}\n\n.col-1 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 8.333333%;\n  flex: 0 0 8.333333%;\n  max-width: 8.333333%;\n}\n\n.col-2 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 16.666667%;\n  flex: 0 0 16.666667%;\n  max-width: 16.666667%;\n}\n\n.col-3 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 25%;\n  flex: 0 0 25%;\n  max-width: 25%;\n}\n\n.col-4 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 33.333333%;\n  flex: 0 0 33.333333%;\n  max-width: 33.333333%;\n}\n\n.col-5 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 41.666667%;\n  flex: 0 0 41.666667%;\n  max-width: 41.666667%;\n}\n\n.col-6 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 50%;\n  flex: 0 0 50%;\n  max-width: 50%;\n}\n\n.col-7 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 58.333333%;\n  flex: 0 0 58.333333%;\n  max-width: 58.333333%;\n}\n\n.col-8 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 66.666667%;\n  flex: 0 0 66.666667%;\n  max-width: 66.666667%;\n}\n\n.col-9 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 75%;\n  flex: 0 0 75%;\n  max-width: 75%;\n}\n\n.col-10 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 83.333333%;\n  flex: 0 0 83.333333%;\n  max-width: 83.333333%;\n}\n\n.col-11 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 91.666667%;\n  flex: 0 0 91.666667%;\n  max-width: 91.666667%;\n}\n\n.col-12 {\n  -webkit-box-flex: 0;\n  -ms-flex: 0 0 100%;\n  flex: 0 0 100%;\n  max-width: 100%;\n}\n\n.order-first {\n  -webkit-box-ordinal-group: 0;\n  -ms-flex-order: -1;\n  order: -1;\n}\n\n.order-last {\n  -webkit-box-ordinal-group: 14;\n  -ms-flex-order: 13;\n  order: 13;\n}\n\n.order-0 {\n  -webkit-box-ordinal-group: 1;\n  -ms-flex-order: 0;\n  order: 0;\n}\n\n.order-1 {\n  -webkit-box-ordinal-group: 2;\n  -ms-flex-order: 1;\n  order: 1;\n}\n\n.order-2 {\n  -webkit-box-ordinal-group: 3;\n  -ms-flex-order: 2;\n  order: 2;\n}\n\n.order-3 {\n  -webkit-box-ordinal-group: 4;\n  -ms-flex-order: 3;\n  order: 3;\n}\n\n.order-4 {\n  -webkit-box-ordinal-group: 5;\n  -ms-flex-order: 4;\n  order: 4;\n}\n\n.order-5 {\n  -webkit-box-ordinal-group: 6;\n  -ms-flex-order: 5;\n  order: 5;\n}\n\n.order-6 {\n  -webkit-box-ordinal-group: 7;\n  -ms-flex-order: 6;\n  order: 6;\n}\n\n.order-7 {\n  -webkit-box-ordinal-group: 8;\n  -ms-flex-order: 7;\n  order: 7;\n}\n\n.order-8 {\n  -webkit-box-ordinal-group: 9;\n  -ms-flex-order: 8;\n  order: 8;\n}\n\n.order-9 {\n  -webkit-box-ordinal-group: 10;\n  -ms-flex-order: 9;\n  order: 9;\n}\n\n.order-10 {\n  -webkit-box-ordinal-group: 11;\n  -ms-flex-order: 10;\n  order: 10;\n}\n\n.order-11 {\n  -webkit-box-ordinal-group: 12;\n  -ms-flex-order: 11;\n  order: 11;\n}\n\n.order-12 {\n  -webkit-box-ordinal-group: 13;\n  -ms-flex-order: 12;\n  order: 12;\n}\n\n.offset-1 {\n  margin-left: 8.333333%;\n}\n\n.offset-2 {\n  margin-left: 16.666667%;\n}\n\n.offset-3 {\n  margin-left: 25%;\n}\n\n.offset-4 {\n  margin-left: 33.333333%;\n}\n\n.offset-5 {\n  margin-left: 41.666667%;\n}\n\n.offset-6 {\n  margin-left: 50%;\n}\n\n.offset-7 {\n  margin-left: 58.333333%;\n}\n\n.offset-8 {\n  margin-left: 66.666667%;\n}\n\n.offset-9 {\n  margin-left: 75%;\n}\n\n.offset-10 {\n  margin-left: 83.333333%;\n}\n\n.offset-11 {\n  margin-left: 91.666667%;\n}\n\n@media (min-width: 576px) {\n  .col-sm {\n    -ms-flex-preferred-size: 0;\n    flex-basis: 0;\n    -webkit-box-flex: 1;\n    -ms-flex-positive: 1;\n    flex-grow: 1;\n    max-width: 100%;\n  }\n  .col-sm-auto {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 auto;\n    flex: 0 0 auto;\n    width: auto;\n    max-width: none;\n  }\n  .col-sm-1 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 8.333333%;\n    flex: 0 0 8.333333%;\n    max-width: 8.333333%;\n  }\n  .col-sm-2 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 16.666667%;\n    flex: 0 0 16.666667%;\n    max-width: 16.666667%;\n  }\n  .col-sm-3 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 25%;\n    flex: 0 0 25%;\n    max-width: 25%;\n  }\n  .col-sm-4 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 33.333333%;\n    flex: 0 0 33.333333%;\n    max-width: 33.333333%;\n  }\n  .col-sm-5 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 41.666667%;\n    flex: 0 0 41.666667%;\n    max-width: 41.666667%;\n  }\n  .col-sm-6 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 50%;\n    flex: 0 0 50%;\n    max-width: 50%;\n  }\n  .col-sm-7 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 58.333333%;\n    flex: 0 0 58.333333%;\n    max-width: 58.333333%;\n  }\n  .col-sm-8 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 66.666667%;\n    flex: 0 0 66.666667%;\n    max-width: 66.666667%;\n  }\n  .col-sm-9 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 75%;\n    flex: 0 0 75%;\n    max-width: 75%;\n  }\n  .col-sm-10 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 83.333333%;\n    flex: 0 0 83.333333%;\n    max-width: 83.333333%;\n  }\n  .col-sm-11 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 91.666667%;\n    flex: 0 0 91.666667%;\n    max-width: 91.666667%;\n  }\n  .col-sm-12 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 100%;\n    flex: 0 0 100%;\n    max-width: 100%;\n  }\n  .order-sm-first {\n    -webkit-box-ordinal-group: 0;\n    -ms-flex-order: -1;\n    order: -1;\n  }\n  .order-sm-last {\n    -webkit-box-ordinal-group: 14;\n    -ms-flex-order: 13;\n    order: 13;\n  }\n  .order-sm-0 {\n    -webkit-box-ordinal-group: 1;\n    -ms-flex-order: 0;\n    order: 0;\n  }\n  .order-sm-1 {\n    -webkit-box-ordinal-group: 2;\n    -ms-flex-order: 1;\n    order: 1;\n  }\n  .order-sm-2 {\n    -webkit-box-ordinal-group: 3;\n    -ms-flex-order: 2;\n    order: 2;\n  }\n  .order-sm-3 {\n    -webkit-box-ordinal-group: 4;\n    -ms-flex-order: 3;\n    order: 3;\n  }\n  .order-sm-4 {\n    -webkit-box-ordinal-group: 5;\n    -ms-flex-order: 4;\n    order: 4;\n  }\n  .order-sm-5 {\n    -webkit-box-ordinal-group: 6;\n    -ms-flex-order: 5;\n    order: 5;\n  }\n  .order-sm-6 {\n    -webkit-box-ordinal-group: 7;\n    -ms-flex-order: 6;\n    order: 6;\n  }\n  .order-sm-7 {\n    -webkit-box-ordinal-group: 8;\n    -ms-flex-order: 7;\n    order: 7;\n  }\n  .order-sm-8 {\n    -webkit-box-ordinal-group: 9;\n    -ms-flex-order: 8;\n    order: 8;\n  }\n  .order-sm-9 {\n    -webkit-box-ordinal-group: 10;\n    -ms-flex-order: 9;\n    order: 9;\n  }\n  .order-sm-10 {\n    -webkit-box-ordinal-group: 11;\n    -ms-flex-order: 10;\n    order: 10;\n  }\n  .order-sm-11 {\n    -webkit-box-ordinal-group: 12;\n    -ms-flex-order: 11;\n    order: 11;\n  }\n  .order-sm-12 {\n    -webkit-box-ordinal-group: 13;\n    -ms-flex-order: 12;\n    order: 12;\n  }\n  .offset-sm-0 {\n    margin-left: 0;\n  }\n  .offset-sm-1 {\n    margin-left: 8.333333%;\n  }\n  .offset-sm-2 {\n    margin-left: 16.666667%;\n  }\n  .offset-sm-3 {\n    margin-left: 25%;\n  }\n  .offset-sm-4 {\n    margin-left: 33.333333%;\n  }\n  .offset-sm-5 {\n    margin-left: 41.666667%;\n  }\n  .offset-sm-6 {\n    margin-left: 50%;\n  }\n  .offset-sm-7 {\n    margin-left: 58.333333%;\n  }\n  .offset-sm-8 {\n    margin-left: 66.666667%;\n  }\n  .offset-sm-9 {\n    margin-left: 75%;\n  }\n  .offset-sm-10 {\n    margin-left: 83.333333%;\n  }\n  .offset-sm-11 {\n    margin-left: 91.666667%;\n  }\n}\n\n@media (min-width: 768px) {\n  .col-md {\n    -ms-flex-preferred-size: 0;\n    flex-basis: 0;\n    -webkit-box-flex: 1;\n    -ms-flex-positive: 1;\n    flex-grow: 1;\n    max-width: 100%;\n  }\n  .col-md-auto {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 auto;\n    flex: 0 0 auto;\n    width: auto;\n    max-width: none;\n  }\n  .col-md-1 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 8.333333%;\n    flex: 0 0 8.333333%;\n    max-width: 8.333333%;\n  }\n  .col-md-2 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 16.666667%;\n    flex: 0 0 16.666667%;\n    max-width: 16.666667%;\n  }\n  .col-md-3 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 25%;\n    flex: 0 0 25%;\n    max-width: 25%;\n  }\n  .col-md-4 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 33.333333%;\n    flex: 0 0 33.333333%;\n    max-width: 33.333333%;\n  }\n  .col-md-5 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 41.666667%;\n    flex: 0 0 41.666667%;\n    max-width: 41.666667%;\n  }\n  .col-md-6 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 50%;\n    flex: 0 0 50%;\n    max-width: 50%;\n  }\n  .col-md-7 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 58.333333%;\n    flex: 0 0 58.333333%;\n    max-width: 58.333333%;\n  }\n  .col-md-8 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 66.666667%;\n    flex: 0 0 66.666667%;\n    max-width: 66.666667%;\n  }\n  .col-md-9 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 75%;\n    flex: 0 0 75%;\n    max-width: 75%;\n  }\n  .col-md-10 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 83.333333%;\n    flex: 0 0 83.333333%;\n    max-width: 83.333333%;\n  }\n  .col-md-11 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 91.666667%;\n    flex: 0 0 91.666667%;\n    max-width: 91.666667%;\n  }\n  .col-md-12 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 100%;\n    flex: 0 0 100%;\n    max-width: 100%;\n  }\n  .order-md-first {\n    -webkit-box-ordinal-group: 0;\n    -ms-flex-order: -1;\n    order: -1;\n  }\n  .order-md-last {\n    -webkit-box-ordinal-group: 14;\n    -ms-flex-order: 13;\n    order: 13;\n  }\n  .order-md-0 {\n    -webkit-box-ordinal-group: 1;\n    -ms-flex-order: 0;\n    order: 0;\n  }\n  .order-md-1 {\n    -webkit-box-ordinal-group: 2;\n    -ms-flex-order: 1;\n    order: 1;\n  }\n  .order-md-2 {\n    -webkit-box-ordinal-group: 3;\n    -ms-flex-order: 2;\n    order: 2;\n  }\n  .order-md-3 {\n    -webkit-box-ordinal-group: 4;\n    -ms-flex-order: 3;\n    order: 3;\n  }\n  .order-md-4 {\n    -webkit-box-ordinal-group: 5;\n    -ms-flex-order: 4;\n    order: 4;\n  }\n  .order-md-5 {\n    -webkit-box-ordinal-group: 6;\n    -ms-flex-order: 5;\n    order: 5;\n  }\n  .order-md-6 {\n    -webkit-box-ordinal-group: 7;\n    -ms-flex-order: 6;\n    order: 6;\n  }\n  .order-md-7 {\n    -webkit-box-ordinal-group: 8;\n    -ms-flex-order: 7;\n    order: 7;\n  }\n  .order-md-8 {\n    -webkit-box-ordinal-group: 9;\n    -ms-flex-order: 8;\n    order: 8;\n  }\n  .order-md-9 {\n    -webkit-box-ordinal-group: 10;\n    -ms-flex-order: 9;\n    order: 9;\n  }\n  .order-md-10 {\n    -webkit-box-ordinal-group: 11;\n    -ms-flex-order: 10;\n    order: 10;\n  }\n  .order-md-11 {\n    -webkit-box-ordinal-group: 12;\n    -ms-flex-order: 11;\n    order: 11;\n  }\n  .order-md-12 {\n    -webkit-box-ordinal-group: 13;\n    -ms-flex-order: 12;\n    order: 12;\n  }\n  .offset-md-0 {\n    margin-left: 0;\n  }\n  .offset-md-1 {\n    margin-left: 8.333333%;\n  }\n  .offset-md-2 {\n    margin-left: 16.666667%;\n  }\n  .offset-md-3 {\n    margin-left: 25%;\n  }\n  .offset-md-4 {\n    margin-left: 33.333333%;\n  }\n  .offset-md-5 {\n    margin-left: 41.666667%;\n  }\n  .offset-md-6 {\n    margin-left: 50%;\n  }\n  .offset-md-7 {\n    margin-left: 58.333333%;\n  }\n  .offset-md-8 {\n    margin-left: 66.666667%;\n  }\n  .offset-md-9 {\n    margin-left: 75%;\n  }\n  .offset-md-10 {\n    margin-left: 83.333333%;\n  }\n  .offset-md-11 {\n    margin-left: 91.666667%;\n  }\n}\n\n@media (min-width: 992px) {\n  .col-lg {\n    -ms-flex-preferred-size: 0;\n    flex-basis: 0;\n    -webkit-box-flex: 1;\n    -ms-flex-positive: 1;\n    flex-grow: 1;\n    max-width: 100%;\n  }\n  .col-lg-auto {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 auto;\n    flex: 0 0 auto;\n    width: auto;\n    max-width: none;\n  }\n  .col-lg-1 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 8.333333%;\n    flex: 0 0 8.333333%;\n    max-width: 8.333333%;\n  }\n  .col-lg-2 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 16.666667%;\n    flex: 0 0 16.666667%;\n    max-width: 16.666667%;\n  }\n  .col-lg-3 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 25%;\n    flex: 0 0 25%;\n    max-width: 25%;\n  }\n  .col-lg-4 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 33.333333%;\n    flex: 0 0 33.333333%;\n    max-width: 33.333333%;\n  }\n  .col-lg-5 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 41.666667%;\n    flex: 0 0 41.666667%;\n    max-width: 41.666667%;\n  }\n  .col-lg-6 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 50%;\n    flex: 0 0 50%;\n    max-width: 50%;\n  }\n  .col-lg-7 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 58.333333%;\n    flex: 0 0 58.333333%;\n    max-width: 58.333333%;\n  }\n  .col-lg-8 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 66.666667%;\n    flex: 0 0 66.666667%;\n    max-width: 66.666667%;\n  }\n  .col-lg-9 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 75%;\n    flex: 0 0 75%;\n    max-width: 75%;\n  }\n  .col-lg-10 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 83.333333%;\n    flex: 0 0 83.333333%;\n    max-width: 83.333333%;\n  }\n  .col-lg-11 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 91.666667%;\n    flex: 0 0 91.666667%;\n    max-width: 91.666667%;\n  }\n  .col-lg-12 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 100%;\n    flex: 0 0 100%;\n    max-width: 100%;\n  }\n  .order-lg-first {\n    -webkit-box-ordinal-group: 0;\n    -ms-flex-order: -1;\n    order: -1;\n  }\n  .order-lg-last {\n    -webkit-box-ordinal-group: 14;\n    -ms-flex-order: 13;\n    order: 13;\n  }\n  .order-lg-0 {\n    -webkit-box-ordinal-group: 1;\n    -ms-flex-order: 0;\n    order: 0;\n  }\n  .order-lg-1 {\n    -webkit-box-ordinal-group: 2;\n    -ms-flex-order: 1;\n    order: 1;\n  }\n  .order-lg-2 {\n    -webkit-box-ordinal-group: 3;\n    -ms-flex-order: 2;\n    order: 2;\n  }\n  .order-lg-3 {\n    -webkit-box-ordinal-group: 4;\n    -ms-flex-order: 3;\n    order: 3;\n  }\n  .order-lg-4 {\n    -webkit-box-ordinal-group: 5;\n    -ms-flex-order: 4;\n    order: 4;\n  }\n  .order-lg-5 {\n    -webkit-box-ordinal-group: 6;\n    -ms-flex-order: 5;\n    order: 5;\n  }\n  .order-lg-6 {\n    -webkit-box-ordinal-group: 7;\n    -ms-flex-order: 6;\n    order: 6;\n  }\n  .order-lg-7 {\n    -webkit-box-ordinal-group: 8;\n    -ms-flex-order: 7;\n    order: 7;\n  }\n  .order-lg-8 {\n    -webkit-box-ordinal-group: 9;\n    -ms-flex-order: 8;\n    order: 8;\n  }\n  .order-lg-9 {\n    -webkit-box-ordinal-group: 10;\n    -ms-flex-order: 9;\n    order: 9;\n  }\n  .order-lg-10 {\n    -webkit-box-ordinal-group: 11;\n    -ms-flex-order: 10;\n    order: 10;\n  }\n  .order-lg-11 {\n    -webkit-box-ordinal-group: 12;\n    -ms-flex-order: 11;\n    order: 11;\n  }\n  .order-lg-12 {\n    -webkit-box-ordinal-group: 13;\n    -ms-flex-order: 12;\n    order: 12;\n  }\n  .offset-lg-0 {\n    margin-left: 0;\n  }\n  .offset-lg-1 {\n    margin-left: 8.333333%;\n  }\n  .offset-lg-2 {\n    margin-left: 16.666667%;\n  }\n  .offset-lg-3 {\n    margin-left: 25%;\n  }\n  .offset-lg-4 {\n    margin-left: 33.333333%;\n  }\n  .offset-lg-5 {\n    margin-left: 41.666667%;\n  }\n  .offset-lg-6 {\n    margin-left: 50%;\n  }\n  .offset-lg-7 {\n    margin-left: 58.333333%;\n  }\n  .offset-lg-8 {\n    margin-left: 66.666667%;\n  }\n  .offset-lg-9 {\n    margin-left: 75%;\n  }\n  .offset-lg-10 {\n    margin-left: 83.333333%;\n  }\n  .offset-lg-11 {\n    margin-left: 91.666667%;\n  }\n}\n\n@media (min-width: 1200px) {\n  .col-xl {\n    -ms-flex-preferred-size: 0;\n    flex-basis: 0;\n    -webkit-box-flex: 1;\n    -ms-flex-positive: 1;\n    flex-grow: 1;\n    max-width: 100%;\n  }\n  .col-xl-auto {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 auto;\n    flex: 0 0 auto;\n    width: auto;\n    max-width: none;\n  }\n  .col-xl-1 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 8.333333%;\n    flex: 0 0 8.333333%;\n    max-width: 8.333333%;\n  }\n  .col-xl-2 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 16.666667%;\n    flex: 0 0 16.666667%;\n    max-width: 16.666667%;\n  }\n  .col-xl-3 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 25%;\n    flex: 0 0 25%;\n    max-width: 25%;\n  }\n  .col-xl-4 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 33.333333%;\n    flex: 0 0 33.333333%;\n    max-width: 33.333333%;\n  }\n  .col-xl-5 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 41.666667%;\n    flex: 0 0 41.666667%;\n    max-width: 41.666667%;\n  }\n  .col-xl-6 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 50%;\n    flex: 0 0 50%;\n    max-width: 50%;\n  }\n  .col-xl-7 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 58.333333%;\n    flex: 0 0 58.333333%;\n    max-width: 58.333333%;\n  }\n  .col-xl-8 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 66.666667%;\n    flex: 0 0 66.666667%;\n    max-width: 66.666667%;\n  }\n  .col-xl-9 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 75%;\n    flex: 0 0 75%;\n    max-width: 75%;\n  }\n  .col-xl-10 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 83.333333%;\n    flex: 0 0 83.333333%;\n    max-width: 83.333333%;\n  }\n  .col-xl-11 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 91.666667%;\n    flex: 0 0 91.666667%;\n    max-width: 91.666667%;\n  }\n  .col-xl-12 {\n    -webkit-box-flex: 0;\n    -ms-flex: 0 0 100%;\n    flex: 0 0 100%;\n    max-width: 100%;\n  }\n  .order-xl-first {\n    -webkit-box-ordinal-group: 0;\n    -ms-flex-order: -1;\n    order: -1;\n  }\n  .order-xl-last {\n    -webkit-box-ordinal-group: 14;\n    -ms-flex-order: 13;\n    order: 13;\n  }\n  .order-xl-0 {\n    -webkit-box-ordinal-group: 1;\n    -ms-flex-order: 0;\n    order: 0;\n  }\n  .order-xl-1 {\n    -webkit-box-ordinal-group: 2;\n    -ms-flex-order: 1;\n    order: 1;\n  }\n  .order-xl-2 {\n    -webkit-box-ordinal-group: 3;\n    -ms-flex-order: 2;\n    order: 2;\n  }\n  .order-xl-3 {\n    -webkit-box-ordinal-group: 4;\n    -ms-flex-order: 3;\n    order: 3;\n  }\n  .order-xl-4 {\n    -webkit-box-ordinal-group: 5;\n    -ms-flex-order: 4;\n    order: 4;\n  }\n  .order-xl-5 {\n    -webkit-box-ordinal-group: 6;\n    -ms-flex-order: 5;\n    order: 5;\n  }\n  .order-xl-6 {\n    -webkit-box-ordinal-group: 7;\n    -ms-flex-order: 6;\n    order: 6;\n  }\n  .order-xl-7 {\n    -webkit-box-ordinal-group: 8;\n    -ms-flex-order: 7;\n    order: 7;\n  }\n  .order-xl-8 {\n    -webkit-box-ordinal-group: 9;\n    -ms-flex-order: 8;\n    order: 8;\n  }\n  .order-xl-9 {\n    -webkit-box-ordinal-group: 10;\n    -ms-flex-order: 9;\n    order: 9;\n  }\n  .order-xl-10 {\n    -webkit-box-ordinal-group: 11;\n    -ms-flex-order: 10;\n    order: 10;\n  }\n  .order-xl-11 {\n    -webkit-box-ordinal-group: 12;\n    -ms-flex-order: 11;\n    order: 11;\n  }\n  .order-xl-12 {\n    -webkit-box-ordinal-group: 13;\n    -ms-flex-order: 12;\n    order: 12;\n  }\n  .offset-xl-0 {\n    margin-left: 0;\n  }\n  .offset-xl-1 {\n    margin-left: 8.333333%;\n  }\n  .offset-xl-2 {\n    margin-left: 16.666667%;\n  }\n  .offset-xl-3 {\n    margin-left: 25%;\n  }\n  .offset-xl-4 {\n    margin-left: 33.333333%;\n  }\n  .offset-xl-5 {\n    margin-left: 41.666667%;\n  }\n  .offset-xl-6 {\n    margin-left: 50%;\n  }\n  .offset-xl-7 {\n    margin-left: 58.333333%;\n  }\n  .offset-xl-8 {\n    margin-left: 66.666667%;\n  }\n  .offset-xl-9 {\n    margin-left: 75%;\n  }\n  .offset-xl-10 {\n    margin-left: 83.333333%;\n  }\n  .offset-xl-11 {\n    margin-left: 91.666667%;\n  }\n}\n\n.d-none {\n  display: none !important;\n}\n\n.d-inline {\n  display: inline !important;\n}\n\n.d-inline-block {\n  display: inline-block !important;\n}\n\n.d-block {\n  display: block !important;\n}\n\n.d-table {\n  display: table !important;\n}\n\n.d-table-row {\n  display: table-row !important;\n}\n\n.d-table-cell {\n  display: table-cell !important;\n}\n\n.d-flex {\n  display: -webkit-box !important;\n  display: -ms-flexbox !important;\n  display: flex !important;\n}\n\n.d-inline-flex {\n  display: -webkit-inline-box !important;\n  display: -ms-inline-flexbox !important;\n  display: inline-flex !important;\n}\n\n@media (min-width: 576px) {\n  .d-sm-none {\n    display: none !important;\n  }\n  .d-sm-inline {\n    display: inline !important;\n  }\n  .d-sm-inline-block {\n    display: inline-block !important;\n  }\n  .d-sm-block {\n    display: block !important;\n  }\n  .d-sm-table {\n    display: table !important;\n  }\n  .d-sm-table-row {\n    display: table-row !important;\n  }\n  .d-sm-table-cell {\n    display: table-cell !important;\n  }\n  .d-sm-flex {\n    display: -webkit-box !important;\n    display: -ms-flexbox !important;\n    display: flex !important;\n  }\n  .d-sm-inline-flex {\n    display: -webkit-inline-box !important;\n    display: -ms-inline-flexbox !important;\n    display: inline-flex !important;\n  }\n}\n\n@media (min-width: 768px) {\n  .d-md-none {\n    display: none !important;\n  }\n  .d-md-inline {\n    display: inline !important;\n  }\n  .d-md-inline-block {\n    display: inline-block !important;\n  }\n  .d-md-block {\n    display: block !important;\n  }\n  .d-md-table {\n    display: table !important;\n  }\n  .d-md-table-row {\n    display: table-row !important;\n  }\n  .d-md-table-cell {\n    display: table-cell !important;\n  }\n  .d-md-flex {\n    display: -webkit-box !important;\n    display: -ms-flexbox !important;\n    display: flex !important;\n  }\n  .d-md-inline-flex {\n    display: -webkit-inline-box !important;\n    display: -ms-inline-flexbox !important;\n    display: inline-flex !important;\n  }\n}\n\n@media (min-width: 992px) {\n  .d-lg-none {\n    display: none !important;\n  }\n  .d-lg-inline {\n    display: inline !important;\n  }\n  .d-lg-inline-block {\n    display: inline-block !important;\n  }\n  .d-lg-block {\n    display: block !important;\n  }\n  .d-lg-table {\n    display: table !important;\n  }\n  .d-lg-table-row {\n    display: table-row !important;\n  }\n  .d-lg-table-cell {\n    display: table-cell !important;\n  }\n  .d-lg-flex {\n    display: -webkit-box !important;\n    display: -ms-flexbox !important;\n    display: flex !important;\n  }\n  .d-lg-inline-flex {\n    display: -webkit-inline-box !important;\n    display: -ms-inline-flexbox !important;\n    display: inline-flex !important;\n  }\n}\n\n@media (min-width: 1200px) {\n  .d-xl-none {\n    display: none !important;\n  }\n  .d-xl-inline {\n    display: inline !important;\n  }\n  .d-xl-inline-block {\n    display: inline-block !important;\n  }\n  .d-xl-block {\n    display: block !important;\n  }\n  .d-xl-table {\n    display: table !important;\n  }\n  .d-xl-table-row {\n    display: table-row !important;\n  }\n  .d-xl-table-cell {\n    display: table-cell !important;\n  }\n  .d-xl-flex {\n    display: -webkit-box !important;\n    display: -ms-flexbox !important;\n    display: flex !important;\n  }\n  .d-xl-inline-flex {\n    display: -webkit-inline-box !important;\n    display: -ms-inline-flexbox !important;\n    display: inline-flex !important;\n  }\n}\n\n@media print {\n  .d-print-none {\n    display: none !important;\n  }\n  .d-print-inline {\n    display: inline !important;\n  }\n  .d-print-inline-block {\n    display: inline-block !important;\n  }\n  .d-print-block {\n    display: block !important;\n  }\n  .d-print-table {\n    display: table !important;\n  }\n  .d-print-table-row {\n    display: table-row !important;\n  }\n  .d-print-table-cell {\n    display: table-cell !important;\n  }\n  .d-print-flex {\n    display: -webkit-box !important;\n    display: -ms-flexbox !important;\n    display: flex !important;\n  }\n  .d-print-inline-flex {\n    display: -webkit-inline-box !important;\n    display: -ms-inline-flexbox !important;\n    display: inline-flex !important;\n  }\n}\n\n.flex-row {\n  -webkit-box-orient: horizontal !important;\n  -webkit-box-direction: normal !important;\n  -ms-flex-direction: row !important;\n  flex-direction: row !important;\n}\n\n.flex-column {\n  -webkit-box-orient: vertical !important;\n  -webkit-box-direction: normal !important;\n  -ms-flex-direction: column !important;\n  flex-direction: column !important;\n}\n\n.flex-row-reverse {\n  -webkit-box-orient: horizontal !important;\n  -webkit-box-direction: reverse !important;\n  -ms-flex-direction: row-reverse !important;\n  flex-direction: row-reverse !important;\n}\n\n.flex-column-reverse {\n  -webkit-box-orient: vertical !important;\n  -webkit-box-direction: reverse !important;\n  -ms-flex-direction: column-reverse !important;\n  flex-direction: column-reverse !important;\n}\n\n.flex-wrap {\n  -ms-flex-wrap: wrap !important;\n  flex-wrap: wrap !important;\n}\n\n.flex-nowrap {\n  -ms-flex-wrap: nowrap !important;\n  flex-wrap: nowrap !important;\n}\n\n.flex-wrap-reverse {\n  -ms-flex-wrap: wrap-reverse !important;\n  flex-wrap: wrap-reverse !important;\n}\n\n.justify-content-start {\n  -webkit-box-pack: start !important;\n  -ms-flex-pack: start !important;\n  justify-content: flex-start !important;\n}\n\n.justify-content-end {\n  -webkit-box-pack: end !important;\n  -ms-flex-pack: end !important;\n  justify-content: flex-end !important;\n}\n\n.justify-content-center {\n  -webkit-box-pack: center !important;\n  -ms-flex-pack: center !important;\n  justify-content: center !important;\n}\n\n.justify-content-between {\n  -webkit-box-pack: justify !important;\n  -ms-flex-pack: justify !important;\n  justify-content: space-between !important;\n}\n\n.justify-content-around {\n  -ms-flex-pack: distribute !important;\n  justify-content: space-around !important;\n}\n\n.align-items-start {\n  -webkit-box-align: start !important;\n  -ms-flex-align: start !important;\n  align-items: flex-start !important;\n}\n\n.align-items-end {\n  -webkit-box-align: end !important;\n  -ms-flex-align: end !important;\n  align-items: flex-end !important;\n}\n\n.align-items-center {\n  -webkit-box-align: center !important;\n  -ms-flex-align: center !important;\n  align-items: center !important;\n}\n\n.align-items-baseline {\n  -webkit-box-align: baseline !important;\n  -ms-flex-align: baseline !important;\n  align-items: baseline !important;\n}\n\n.align-items-stretch {\n  -webkit-box-align: stretch !important;\n  -ms-flex-align: stretch !important;\n  align-items: stretch !important;\n}\n\n.align-content-start {\n  -ms-flex-line-pack: start !important;\n  align-content: flex-start !important;\n}\n\n.align-content-end {\n  -ms-flex-line-pack: end !important;\n  align-content: flex-end !important;\n}\n\n.align-content-center {\n  -ms-flex-line-pack: center !important;\n  align-content: center !important;\n}\n\n.align-content-between {\n  -ms-flex-line-pack: justify !important;\n  align-content: space-between !important;\n}\n\n.align-content-around {\n  -ms-flex-line-pack: distribute !important;\n  align-content: space-around !important;\n}\n\n.align-content-stretch {\n  -ms-flex-line-pack: stretch !important;\n  align-content: stretch !important;\n}\n\n.align-self-auto {\n  -ms-flex-item-align: auto !important;\n  align-self: auto !important;\n}\n\n.align-self-start {\n  -ms-flex-item-align: start !important;\n  align-self: flex-start !important;\n}\n\n.align-self-end {\n  -ms-flex-item-align: end !important;\n  align-self: flex-end !important;\n}\n\n.align-self-center {\n  -ms-flex-item-align: center !important;\n  align-self: center !important;\n}\n\n.align-self-baseline {\n  -ms-flex-item-align: baseline !important;\n  align-self: baseline !important;\n}\n\n.align-self-stretch {\n  -ms-flex-item-align: stretch !important;\n  align-self: stretch !important;\n}\n\n@media (min-width: 576px) {\n  .flex-sm-row {\n    -webkit-box-orient: horizontal !important;\n    -webkit-box-direction: normal !important;\n    -ms-flex-direction: row !important;\n    flex-direction: row !important;\n  }\n  .flex-sm-column {\n    -webkit-box-orient: vertical !important;\n    -webkit-box-direction: normal !important;\n    -ms-flex-direction: column !important;\n    flex-direction: column !important;\n  }\n  .flex-sm-row-reverse {\n    -webkit-box-orient: horizontal !important;\n    -webkit-box-direction: reverse !important;\n    -ms-flex-direction: row-reverse !important;\n    flex-direction: row-reverse !important;\n  }\n  .flex-sm-column-reverse {\n    -webkit-box-orient: vertical !important;\n    -webkit-box-direction: reverse !important;\n    -ms-flex-direction: column-reverse !important;\n    flex-direction: column-reverse !important;\n  }\n  .flex-sm-wrap {\n    -ms-flex-wrap: wrap !important;\n    flex-wrap: wrap !important;\n  }\n  .flex-sm-nowrap {\n    -ms-flex-wrap: nowrap !important;\n    flex-wrap: nowrap !important;\n  }\n  .flex-sm-wrap-reverse {\n    -ms-flex-wrap: wrap-reverse !important;\n    flex-wrap: wrap-reverse !important;\n  }\n  .justify-content-sm-start {\n    -webkit-box-pack: start !important;\n    -ms-flex-pack: start !important;\n    justify-content: flex-start !important;\n  }\n  .justify-content-sm-end {\n    -webkit-box-pack: end !important;\n    -ms-flex-pack: end !important;\n    justify-content: flex-end !important;\n  }\n  .justify-content-sm-center {\n    -webkit-box-pack: center !important;\n    -ms-flex-pack: center !important;\n    justify-content: center !important;\n  }\n  .justify-content-sm-between {\n    -webkit-box-pack: justify !important;\n    -ms-flex-pack: justify !important;\n    justify-content: space-between !important;\n  }\n  .justify-content-sm-around {\n    -ms-flex-pack: distribute !important;\n    justify-content: space-around !important;\n  }\n  .align-items-sm-start {\n    -webkit-box-align: start !important;\n    -ms-flex-align: start !important;\n    align-items: flex-start !important;\n  }\n  .align-items-sm-end {\n    -webkit-box-align: end !important;\n    -ms-flex-align: end !important;\n    align-items: flex-end !important;\n  }\n  .align-items-sm-center {\n    -webkit-box-align: center !important;\n    -ms-flex-align: center !important;\n    align-items: center !important;\n  }\n  .align-items-sm-baseline {\n    -webkit-box-align: baseline !important;\n    -ms-flex-align: baseline !important;\n    align-items: baseline !important;\n  }\n  .align-items-sm-stretch {\n    -webkit-box-align: stretch !important;\n    -ms-flex-align: stretch !important;\n    align-items: stretch !important;\n  }\n  .align-content-sm-start {\n    -ms-flex-line-pack: start !important;\n    align-content: flex-start !important;\n  }\n  .align-content-sm-end {\n    -ms-flex-line-pack: end !important;\n    align-content: flex-end !important;\n  }\n  .align-content-sm-center {\n    -ms-flex-line-pack: center !important;\n    align-content: center !important;\n  }\n  .align-content-sm-between {\n    -ms-flex-line-pack: justify !important;\n    align-content: space-between !important;\n  }\n  .align-content-sm-around {\n    -ms-flex-line-pack: distribute !important;\n    align-content: space-around !important;\n  }\n  .align-content-sm-stretch {\n    -ms-flex-line-pack: stretch !important;\n    align-content: stretch !important;\n  }\n  .align-self-sm-auto {\n    -ms-flex-item-align: auto !important;\n    align-self: auto !important;\n  }\n  .align-self-sm-start {\n    -ms-flex-item-align: start !important;\n    align-self: flex-start !important;\n  }\n  .align-self-sm-end {\n    -ms-flex-item-align: end !important;\n    align-self: flex-end !important;\n  }\n  .align-self-sm-center {\n    -ms-flex-item-align: center !important;\n    align-self: center !important;\n  }\n  .align-self-sm-baseline {\n    -ms-flex-item-align: baseline !important;\n    align-self: baseline !important;\n  }\n  .align-self-sm-stretch {\n    -ms-flex-item-align: stretch !important;\n    align-self: stretch !important;\n  }\n}\n\n@media (min-width: 768px) {\n  .flex-md-row {\n    -webkit-box-orient: horizontal !important;\n    -webkit-box-direction: normal !important;\n    -ms-flex-direction: row !important;\n    flex-direction: row !important;\n  }\n  .flex-md-column {\n    -webkit-box-orient: vertical !important;\n    -webkit-box-direction: normal !important;\n    -ms-flex-direction: column !important;\n    flex-direction: column !important;\n  }\n  .flex-md-row-reverse {\n    -webkit-box-orient: horizontal !important;\n    -webkit-box-direction: reverse !important;\n    -ms-flex-direction: row-reverse !important;\n    flex-direction: row-reverse !important;\n  }\n  .flex-md-column-reverse {\n    -webkit-box-orient: vertical !important;\n    -webkit-box-direction: reverse !important;\n    -ms-flex-direction: column-reverse !important;\n    flex-direction: column-reverse !important;\n  }\n  .flex-md-wrap {\n    -ms-flex-wrap: wrap !important;\n    flex-wrap: wrap !important;\n  }\n  .flex-md-nowrap {\n    -ms-flex-wrap: nowrap !important;\n    flex-wrap: nowrap !important;\n  }\n  .flex-md-wrap-reverse {\n    -ms-flex-wrap: wrap-reverse !important;\n    flex-wrap: wrap-reverse !important;\n  }\n  .justify-content-md-start {\n    -webkit-box-pack: start !important;\n    -ms-flex-pack: start !important;\n    justify-content: flex-start !important;\n  }\n  .justify-content-md-end {\n    -webkit-box-pack: end !important;\n    -ms-flex-pack: end !important;\n    justify-content: flex-end !important;\n  }\n  .justify-content-md-center {\n    -webkit-box-pack: center !important;\n    -ms-flex-pack: center !important;\n    justify-content: center !important;\n  }\n  .justify-content-md-between {\n    -webkit-box-pack: justify !important;\n    -ms-flex-pack: justify !important;\n    justify-content: space-between !important;\n  }\n  .justify-content-md-around {\n    -ms-flex-pack: distribute !important;\n    justify-content: space-around !important;\n  }\n  .align-items-md-start {\n    -webkit-box-align: start !important;\n    -ms-flex-align: start !important;\n    align-items: flex-start !important;\n  }\n  .align-items-md-end {\n    -webkit-box-align: end !important;\n    -ms-flex-align: end !important;\n    align-items: flex-end !important;\n  }\n  .align-items-md-center {\n    -webkit-box-align: center !important;\n    -ms-flex-align: center !important;\n    align-items: center !important;\n  }\n  .align-items-md-baseline {\n    -webkit-box-align: baseline !important;\n    -ms-flex-align: baseline !important;\n    align-items: baseline !important;\n  }\n  .align-items-md-stretch {\n    -webkit-box-align: stretch !important;\n    -ms-flex-align: stretch !important;\n    align-items: stretch !important;\n  }\n  .align-content-md-start {\n    -ms-flex-line-pack: start !important;\n    align-content: flex-start !important;\n  }\n  .align-content-md-end {\n    -ms-flex-line-pack: end !important;\n    align-content: flex-end !important;\n  }\n  .align-content-md-center {\n    -ms-flex-line-pack: center !important;\n    align-content: center !important;\n  }\n  .align-content-md-between {\n    -ms-flex-line-pack: justify !important;\n    align-content: space-between !important;\n  }\n  .align-content-md-around {\n    -ms-flex-line-pack: distribute !important;\n    align-content: space-around !important;\n  }\n  .align-content-md-stretch {\n    -ms-flex-line-pack: stretch !important;\n    align-content: stretch !important;\n  }\n  .align-self-md-auto {\n    -ms-flex-item-align: auto !important;\n    align-self: auto !important;\n  }\n  .align-self-md-start {\n    -ms-flex-item-align: start !important;\n    align-self: flex-start !important;\n  }\n  .align-self-md-end {\n    -ms-flex-item-align: end !important;\n    align-self: flex-end !important;\n  }\n  .align-self-md-center {\n    -ms-flex-item-align: center !important;\n    align-self: center !important;\n  }\n  .align-self-md-baseline {\n    -ms-flex-item-align: baseline !important;\n    align-self: baseline !important;\n  }\n  .align-self-md-stretch {\n    -ms-flex-item-align: stretch !important;\n    align-self: stretch !important;\n  }\n}\n\n@media (min-width: 992px) {\n  .flex-lg-row {\n    -webkit-box-orient: horizontal !important;\n    -webkit-box-direction: normal !important;\n    -ms-flex-direction: row !important;\n    flex-direction: row !important;\n  }\n  .flex-lg-column {\n    -webkit-box-orient: vertical !important;\n    -webkit-box-direction: normal !important;\n    -ms-flex-direction: column !important;\n    flex-direction: column !important;\n  }\n  .flex-lg-row-reverse {\n    -webkit-box-orient: horizontal !important;\n    -webkit-box-direction: reverse !important;\n    -ms-flex-direction: row-reverse !important;\n    flex-direction: row-reverse !important;\n  }\n  .flex-lg-column-reverse {\n    -webkit-box-orient: vertical !important;\n    -webkit-box-direction: reverse !important;\n    -ms-flex-direction: column-reverse !important;\n    flex-direction: column-reverse !important;\n  }\n  .flex-lg-wrap {\n    -ms-flex-wrap: wrap !important;\n    flex-wrap: wrap !important;\n  }\n  .flex-lg-nowrap {\n    -ms-flex-wrap: nowrap !important;\n    flex-wrap: nowrap !important;\n  }\n  .flex-lg-wrap-reverse {\n    -ms-flex-wrap: wrap-reverse !important;\n    flex-wrap: wrap-reverse !important;\n  }\n  .justify-content-lg-start {\n    -webkit-box-pack: start !important;\n    -ms-flex-pack: start !important;\n    justify-content: flex-start !important;\n  }\n  .justify-content-lg-end {\n    -webkit-box-pack: end !important;\n    -ms-flex-pack: end !important;\n    justify-content: flex-end !important;\n  }\n  .justify-content-lg-center {\n    -webkit-box-pack: center !important;\n    -ms-flex-pack: center !important;\n    justify-content: center !important;\n  }\n  .justify-content-lg-between {\n    -webkit-box-pack: justify !important;\n    -ms-flex-pack: justify !important;\n    justify-content: space-between !important;\n  }\n  .justify-content-lg-around {\n    -ms-flex-pack: distribute !important;\n    justify-content: space-around !important;\n  }\n  .align-items-lg-start {\n    -webkit-box-align: start !important;\n    -ms-flex-align: start !important;\n    align-items: flex-start !important;\n  }\n  .align-items-lg-end {\n    -webkit-box-align: end !important;\n    -ms-flex-align: end !important;\n    align-items: flex-end !important;\n  }\n  .align-items-lg-center {\n    -webkit-box-align: center !important;\n    -ms-flex-align: center !important;\n    align-items: center !important;\n  }\n  .align-items-lg-baseline {\n    -webkit-box-align: baseline !important;\n    -ms-flex-align: baseline !important;\n    align-items: baseline !important;\n  }\n  .align-items-lg-stretch {\n    -webkit-box-align: stretch !important;\n    -ms-flex-align: stretch !important;\n    align-items: stretch !important;\n  }\n  .align-content-lg-start {\n    -ms-flex-line-pack: start !important;\n    align-content: flex-start !important;\n  }\n  .align-content-lg-end {\n    -ms-flex-line-pack: end !important;\n    align-content: flex-end !important;\n  }\n  .align-content-lg-center {\n    -ms-flex-line-pack: center !important;\n    align-content: center !important;\n  }\n  .align-content-lg-between {\n    -ms-flex-line-pack: justify !important;\n    align-content: space-between !important;\n  }\n  .align-content-lg-around {\n    -ms-flex-line-pack: distribute !important;\n    align-content: space-around !important;\n  }\n  .align-content-lg-stretch {\n    -ms-flex-line-pack: stretch !important;\n    align-content: stretch !important;\n  }\n  .align-self-lg-auto {\n    -ms-flex-item-align: auto !important;\n    align-self: auto !important;\n  }\n  .align-self-lg-start {\n    -ms-flex-item-align: start !important;\n    align-self: flex-start !important;\n  }\n  .align-self-lg-end {\n    -ms-flex-item-align: end !important;\n    align-self: flex-end !important;\n  }\n  .align-self-lg-center {\n    -ms-flex-item-align: center !important;\n    align-self: center !important;\n  }\n  .align-self-lg-baseline {\n    -ms-flex-item-align: baseline !important;\n    align-self: baseline !important;\n  }\n  .align-self-lg-stretch {\n    -ms-flex-item-align: stretch !important;\n    align-self: stretch !important;\n  }\n}\n\n@media (min-width: 1200px) {\n  .flex-xl-row {\n    -webkit-box-orient: horizontal !important;\n    -webkit-box-direction: normal !important;\n    -ms-flex-direction: row !important;\n    flex-direction: row !important;\n  }\n  .flex-xl-column {\n    -webkit-box-orient: vertical !important;\n    -webkit-box-direction: normal !important;\n    -ms-flex-direction: column !important;\n    flex-direction: column !important;\n  }\n  .flex-xl-row-reverse {\n    -webkit-box-orient: horizontal !important;\n    -webkit-box-direction: reverse !important;\n    -ms-flex-direction: row-reverse !important;\n    flex-direction: row-reverse !important;\n  }\n  .flex-xl-column-reverse {\n    -webkit-box-orient: vertical !important;\n    -webkit-box-direction: reverse !important;\n    -ms-flex-direction: column-reverse !important;\n    flex-direction: column-reverse !important;\n  }\n  .flex-xl-wrap {\n    -ms-flex-wrap: wrap !important;\n    flex-wrap: wrap !important;\n  }\n  .flex-xl-nowrap {\n    -ms-flex-wrap: nowrap !important;\n    flex-wrap: nowrap !important;\n  }\n  .flex-xl-wrap-reverse {\n    -ms-flex-wrap: wrap-reverse !important;\n    flex-wrap: wrap-reverse !important;\n  }\n  .justify-content-xl-start {\n    -webkit-box-pack: start !important;\n    -ms-flex-pack: start !important;\n    justify-content: flex-start !important;\n  }\n  .justify-content-xl-end {\n    -webkit-box-pack: end !important;\n    -ms-flex-pack: end !important;\n    justify-content: flex-end !important;\n  }\n  .justify-content-xl-center {\n    -webkit-box-pack: center !important;\n    -ms-flex-pack: center !important;\n    justify-content: center !important;\n  }\n  .justify-content-xl-between {\n    -webkit-box-pack: justify !important;\n    -ms-flex-pack: justify !important;\n    justify-content: space-between !important;\n  }\n  .justify-content-xl-around {\n    -ms-flex-pack: distribute !important;\n    justify-content: space-around !important;\n  }\n  .align-items-xl-start {\n    -webkit-box-align: start !important;\n    -ms-flex-align: start !important;\n    align-items: flex-start !important;\n  }\n  .align-items-xl-end {\n    -webkit-box-align: end !important;\n    -ms-flex-align: end !important;\n    align-items: flex-end !important;\n  }\n  .align-items-xl-center {\n    -webkit-box-align: center !important;\n    -ms-flex-align: center !important;\n    align-items: center !important;\n  }\n  .align-items-xl-baseline {\n    -webkit-box-align: baseline !important;\n    -ms-flex-align: baseline !important;\n    align-items: baseline !important;\n  }\n  .align-items-xl-stretch {\n    -webkit-box-align: stretch !important;\n    -ms-flex-align: stretch !important;\n    align-items: stretch !important;\n  }\n  .align-content-xl-start {\n    -ms-flex-line-pack: start !important;\n    align-content: flex-start !important;\n  }\n  .align-content-xl-end {\n    -ms-flex-line-pack: end !important;\n    align-content: flex-end !important;\n  }\n  .align-content-xl-center {\n    -ms-flex-line-pack: center !important;\n    align-content: center !important;\n  }\n  .align-content-xl-between {\n    -ms-flex-line-pack: justify !important;\n    align-content: space-between !important;\n  }\n  .align-content-xl-around {\n    -ms-flex-line-pack: distribute !important;\n    align-content: space-around !important;\n  }\n  .align-content-xl-stretch {\n    -ms-flex-line-pack: stretch !important;\n    align-content: stretch !important;\n  }\n  .align-self-xl-auto {\n    -ms-flex-item-align: auto !important;\n    align-self: auto !important;\n  }\n  .align-self-xl-start {\n    -ms-flex-item-align: start !important;\n    align-self: flex-start !important;\n  }\n  .align-self-xl-end {\n    -ms-flex-item-align: end !important;\n    align-self: flex-end !important;\n  }\n  .align-self-xl-center {\n    -ms-flex-item-align: center !important;\n    align-self: center !important;\n  }\n  .align-self-xl-baseline {\n    -ms-flex-item-align: baseline !important;\n    align-self: baseline !important;\n  }\n  .align-self-xl-stretch {\n    -ms-flex-item-align: stretch !important;\n    align-self: stretch !important;\n  }\n}\n/*# sourceMappingURL=bootstrap-grid.css.map */&quot;,&quot;// Container widths\n//\n// Set the container width, and override it for fixed navbars in media queries.\n\n@if $enable-grid-classes {\n  .container {\n    @include make-container();\n    @include make-container-max-widths();\n  }\n}\n\n// Fluid container\n//\n// Utilizes the mixin meant for fixed width containers, but with 100% width for\n// fluid, full width layouts.\n\n@if $enable-grid-classes {\n  .container-fluid {\n    @include make-container();\n  }\n}\n\n// Row\n//\n// Rows contain and clear the floats of your columns.\n\n@if $enable-grid-classes {\n  .row {\n    @include make-row();\n  }\n\n  // Remove the negative margin from default .row, then the horizontal padding\n  // from all immediate children columns (to prevent runaway style inheritance).\n  .no-gutters {\n    margin-right: 0;\n    margin-left: 0;\n\n    &gt; .col,\n    &gt; [class*=\&quot;col-\&quot;] {\n      padding-right: 0;\n      padding-left: 0;\n    }\n  }\n}\n\n// Columns\n//\n// Common styles for small and large grid columns\n\n@if $enable-grid-classes {\n  @include make-grid-columns();\n}\n&quot;,&quot;/// Grid system\n//\n// Generate semantic grid columns with these mixins.\n\n@mixin make-container() {\n  width: 100%;\n  padding-right: ($grid-gutter-width / 2);\n  padding-left: ($grid-gutter-width / 2);\n  margin-right: auto;\n  margin-left: auto;\n}\n\n\n// For each breakpoint, define the maximum width of the container in a media query\n@mixin make-container-max-widths($max-widths: $container-max-widths, $breakpoints: $grid-breakpoints) {\n  @each $breakpoint, $container-max-width in $max-widths {\n    @include media-breakpoint-up($breakpoint, $breakpoints) {\n      max-width: $container-max-width;\n    }\n  }\n}\n\n@mixin make-row() {\n  display: flex;\n  flex-wrap: wrap;\n  margin-right: ($grid-gutter-width / -2);\n  margin-left: ($grid-gutter-width / -2);\n}\n\n@mixin make-col-ready() {\n  position: relative;\n  // Prevent columns from becoming too narrow when at smaller grid tiers by\n  // always setting `width: 100%;`. This works because we use `flex` values\n  // later on to override this initial width.\n  width: 100%;\n  min-height: 1px; // Prevent collapsing\n  padding-right: ($grid-gutter-width / 2);\n  padding-left: ($grid-gutter-width / 2);\n}\n\n@mixin make-col($size, $columns: $grid-columns) {\n  flex: 0 0 percentage($size / $columns);\n  // Add a `max-width` to ensure content within each column does not blow out\n  // the width of the column. Applies to IE10+ and Firefox. Chrome and Safari\n  // do not appear to require this.\n  max-width: percentage($size / $columns);\n}\n\n@mixin make-col-offset($size, $columns: $grid-columns) {\n  $num: $size / $columns;\n  margin-left: if($num == 0, 0, percentage($num));\n}\n&quot;,&quot;// Breakpoint viewport sizes and media queries.\n//\n// Breakpoints are defined as a map of (name: minimum width), order from small to large:\n//\n//    (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px)\n//\n// The map defined in the `$grid-breakpoints` global variable is used as the `$breakpoints` argument by default.\n\n// Name of the next breakpoint, or null for the last breakpoint.\n//\n//    &gt;&gt; breakpoint-next(sm)\n//    md\n//    &gt;&gt; breakpoint-next(sm, (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px))\n//    md\n//    &gt;&gt; breakpoint-next(sm, $breakpoint-names: (xs sm md lg xl))\n//    md\n@function breakpoint-next($name, $breakpoints: $grid-breakpoints, $breakpoint-names: map-keys($breakpoints)) {\n  $n: index($breakpoint-names, $name);\n  @return if($n &lt; length($breakpoint-names), nth($breakpoint-names, $n + 1), null);\n}\n\n// Minimum breakpoint width. Null for the smallest (first) breakpoint.\n//\n//    &gt;&gt; breakpoint-min(sm, (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px))\n//    576px\n@function breakpoint-min($name, $breakpoints: $grid-breakpoints) {\n  $min: map-get($breakpoints, $name);\n  @return if($min != 0, $min, null);\n}\n\n// Maximum breakpoint width. Null for the largest (last) breakpoint.\n// The maximum value is calculated as the minimum of the next one less 0.02px\n// to work around the limitations of `min-` and `max-` prefixes and viewports with fractional widths.\n// See https://www.w3.org/TR/mediaqueries-4/#mq-min-max\n// Uses 0.02px rather than 0.01px to work around a current rounding bug in Safari.\n// See https://bugs.webkit.org/show_bug.cgi?id=178261\n//\n//    &gt;&gt; breakpoint-max(sm, (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px))\n//    767.98px\n@function breakpoint-max($name, $breakpoints: $grid-breakpoints) {\n  $next: breakpoint-next($name, $breakpoints);\n  @return if($next, breakpoint-min($next, $breakpoints) - .02px, null);\n}\n\n// Returns a blank string if smallest breakpoint, otherwise returns the name with a dash infront.\n// Useful for making responsive utilities.\n//\n//    &gt;&gt; breakpoint-infix(xs, (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px))\n//    \&quot;\&quot;  (Returns a blank string)\n//    &gt;&gt; breakpoint-infix(sm, (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px))\n//    \&quot;-sm\&quot;\n@function breakpoint-infix($name, $breakpoints: $grid-breakpoints) {\n  @return if(breakpoint-min($name, $breakpoints) == null, \&quot;\&quot;, \&quot;-#{$name}\&quot;);\n}\n\n// Media of at least the minimum breakpoint width. No query for the smallest breakpoint.\n// Makes the @content apply to the given breakpoint and wider.\n@mixin media-breakpoint-up($name, $breakpoints: $grid-breakpoints) {\n  $min: breakpoint-min($name, $breakpoints);\n  @if $min {\n    @media (min-width: $min) {\n      @content;\n    }\n  } @else {\n    @content;\n  }\n}\n\n// Media of at most the maximum breakpoint width. No query for the largest breakpoint.\n// Makes the @content apply to the given breakpoint and narrower.\n@mixin media-breakpoint-down($name, $breakpoints: $grid-breakpoints) {\n  $max: breakpoint-max($name, $breakpoints);\n  @if $max {\n    @media (max-width: $max) {\n      @content;\n    }\n  } @else {\n    @content;\n  }\n}\n\n// Media that spans multiple breakpoint widths.\n// Makes the @content apply between the min and max breakpoints\n@mixin media-breakpoint-between($lower, $upper, $breakpoints: $grid-breakpoints) {\n  $min: breakpoint-min($lower, $breakpoints);\n  $max: breakpoint-max($upper, $breakpoints);\n\n  @if $min != null and $max != null {\n    @media (min-width: $min) and (max-width: $max) {\n      @content;\n    }\n  } @else if $max == null {\n    @include media-breakpoint-up($lower, $breakpoints) {\n      @content;\n    }\n  } @else if $min == null {\n    @include media-breakpoint-down($upper, $breakpoints) {\n      @content;\n    }\n  }\n}\n\n// Media between the breakpoint&#39;s minimum and maximum widths.\n// No minimum for the smallest breakpoint, and no maximum for the largest one.\n// Makes the @content apply only to the given breakpoint, not viewports any wider or narrower.\n@mixin media-breakpoint-only($name, $breakpoints: $grid-breakpoints) {\n  $min: breakpoint-min($name, $breakpoints);\n  $max: breakpoint-max($name, $breakpoints);\n\n  @if $min != null and $max != null {\n    @media (min-width: $min) and (max-width: $max) {\n      @content;\n    }\n  } @else if $max == null {\n    @include media-breakpoint-up($name, $breakpoints) {\n      @content;\n    }\n  } @else if $min == null {\n    @include media-breakpoint-down($name, $breakpoints) {\n      @content;\n    }\n  }\n}\n&quot;,&quot;// Framework grid generation\n//\n// Used only by Bootstrap to generate the correct number of grid classes given\n// any value of `$grid-columns`.\n\n@mixin make-grid-columns($columns: $grid-columns, $gutter: $grid-gutter-width, $breakpoints: $grid-breakpoints) {\n  // Common properties for all breakpoints\n  %grid-column {\n    position: relative;\n    width: 100%;\n    min-height: 1px; // Prevent columns from collapsing when empty\n    padding-right: ($gutter / 2);\n    padding-left: ($gutter / 2);\n  }\n\n  @each $breakpoint in map-keys($breakpoints) {\n    $infix: breakpoint-infix($breakpoint, $breakpoints);\n\n    // Allow columns to stretch full width below their breakpoints\n    @for $i from 1 through $columns {\n      .col#{$infix}-#{$i} {\n        @extend %grid-column;\n      }\n    }\n    .col#{$infix},\n    .col#{$infix}-auto {\n      @extend %grid-column;\n    }\n\n    @include media-breakpoint-up($breakpoint, $breakpoints) {\n      // Provide basic `.col-{bp}` classes for equal-width flexbox columns\n      .col#{$infix} {\n        flex-basis: 0;\n        flex-grow: 1;\n        max-width: 100%;\n      }\n      .col#{$infix}-auto {\n        flex: 0 0 auto;\n        width: auto;\n        max-width: none; // Reset earlier grid tiers\n      }\n\n      @for $i from 1 through $columns {\n        .col#{$infix}-#{$i} {\n          @include make-col($i, $columns);\n        }\n      }\n\n      .order#{$infix}-first { order: -1; }\n\n      .order#{$infix}-last { order: $columns + 1; }\n\n      @for $i from 0 through $columns {\n        .order#{$infix}-#{$i} { order: $i; }\n      }\n\n      // `$columns - 1` because offsetting by the width of an entire row isn&#39;t possible\n      @for $i from 0 through ($columns - 1) {\n        @if not ($infix == \&quot;\&quot; and $i == 0) { // Avoid emitting useless .offset-0\n          .offset#{$infix}-#{$i} {\n            @include make-col-offset($i, $columns);\n          }\n        }\n      }\n    }\n  }\n}\n&quot;,&quot;// stylelint-disable declaration-no-important\n\n//\n// Utilities for common `display` values\n//\n\n@each $breakpoint in map-keys($grid-breakpoints) {\n  @include media-breakpoint-up($breakpoint) {\n    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);\n\n    .d#{$infix}-none         { display: none !important; }\n    .d#{$infix}-inline       { display: inline !important; }\n    .d#{$infix}-inline-block { display: inline-block !important; }\n    .d#{$infix}-block        { display: block !important; }\n    .d#{$infix}-table        { display: table !important; }\n    .d#{$infix}-table-row    { display: table-row !important; }\n    .d#{$infix}-table-cell   { display: table-cell !important; }\n    .d#{$infix}-flex         { display: flex !important; }\n    .d#{$infix}-inline-flex  { display: inline-flex !important; }\n  }\n}\n\n\n//\n// Utilities for toggling `display` in print\n//\n\n@media print {\n  .d-print-none         { display: none !important; }\n  .d-print-inline       { display: inline !important; }\n  .d-print-inline-block { display: inline-block !important; }\n  .d-print-block        { display: block !important; }\n  .d-print-table        { display: table !important; }\n  .d-print-table-row    { display: table-row !important; }\n  .d-print-table-cell   { display: table-cell !important; }\n  .d-print-flex         { display: flex !important; }\n  .d-print-inline-flex  { display: inline-flex !important; }\n}\n&quot;,&quot;// stylelint-disable declaration-no-important\n\n// Flex variation\n//\n// Custom styles for additional flex alignment options.\n\n@each $breakpoint in map-keys($grid-breakpoints) {\n  @include media-breakpoint-up($breakpoint) {\n    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);\n\n    .flex#{$infix}-row            { flex-direction: row !important; }\n    .flex#{$infix}-column         { flex-direction: column !important; }\n    .flex#{$infix}-row-reverse    { flex-direction: row-reverse !important; }\n    .flex#{$infix}-column-reverse { flex-direction: column-reverse !important; }\n\n    .flex#{$infix}-wrap         { flex-wrap: wrap !important; }\n    .flex#{$infix}-nowrap       { flex-wrap: nowrap !important; }\n    .flex#{$infix}-wrap-reverse { flex-wrap: wrap-reverse !important; }\n\n    .justify-content#{$infix}-start   { justify-content: flex-start !important; }\n    .justify-content#{$infix}-end     { justify-content: flex-end !important; }\n    .justify-content#{$infix}-center  { justify-content: center !important; }\n    .justify-content#{$infix}-between { justify-content: space-between !important; }\n    .justify-content#{$infix}-around  { justify-content: space-around !important; }\n\n    .align-items#{$infix}-start    { align-items: flex-start !important; }\n    .align-items#{$infix}-end      { align-items: flex-end !important; }\n    .align-items#{$infix}-center   { align-items: center !important; }\n    .align-items#{$infix}-baseline { align-items: baseline !important; }\n    .align-items#{$infix}-stretch  { align-items: stretch !important; }\n\n    .align-content#{$infix}-start   { align-content: flex-start !important; }\n    .align-content#{$infix}-end     { align-content: flex-end !important; }\n    .align-content#{$infix}-center  { align-content: center !important; }\n    .align-content#{$infix}-between { align-content: space-between !important; }\n    .align-content#{$infix}-around  { align-content: space-around !important; }\n    .align-content#{$infix}-stretch { align-content: stretch !important; }\n\n    .align-self#{$infix}-auto     { align-self: auto !important; }\n    .align-self#{$infix}-start    { align-self: flex-start !important; }\n    .align-self#{$infix}-end      { align-self: flex-end !important; }\n    .align-self#{$infix}-center   { align-self: center !important; }\n    .align-self#{$infix}-baseline { align-self: baseline !important; }\n    .align-self#{$infix}-stretch  { align-self: stretch !important; }\n  }\n}\n&quot;]}</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm5 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM13 7.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"></path></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/fadhilrazzan/siperpus/blame/2a2851d79d0b87722443ed5bbf6116114893a20c/siperpus/assets/css/bootstrap-grid.min.css.map">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/fadhilrazzan/siperpus/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+  </div>
+
+    </div>
+
+  
+
+  <details class="details-reset details-overlay details-overlay-dark">
+    <summary data-hotkey="l" aria-label="Jump to line"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
+        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+        <button type="submit" class="btn" data-close-dialog>Go</button>
+</form>    </details-dialog>
+  </details>
+
+
+
+  </div>
+</div>
+
+    </main>
+  </div>
+  
+
+  </div>
+
+        
+<div class="footer container-lg width-full p-responsive" role="contentinfo">
+  <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      <li class="mr-3 mr-lg-0">&copy; 2020 GitHub, Inc.</li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" async="async" integrity="sha512-WcQmT2vhcClFVOaaAJV/M+HqsJ2Gq/myvl6F3gCVBxykazXTs+i5fvxncSXwyG1CSfcrqmLFw/R/bmFYzprX2A==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-59c4264f.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-Y86V8OBlvF6I/7e56GKOOt80Yg1RTGA09uqFFX18aiBtevLbKGxB7sVpCn79fukppFIBqyBTB/s6l0Bhn0kidQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-bootstrap-63ce95f0.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-ASMgX6+DJ9LVZX/3Fj0RzibSpfigU83ubvsxxwriojWmuBM3faUp1108gypkhXpqLHEBQhIhjlzDOejzOFd0gA==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-0123205f.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-/m8I1HkTKfQgD4Lqec5vpR0qqCNHDINqdqbHHZnQDDaJff7C2KUPTSbPwu0Xhv2br1ccJkb3OtrrWyPWmbHPHw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-fe6f08d4.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-PuZva6cJdMrwZAoEegMn3t28uNAFVkvvMftKbPdo/Fomsvw2eH/OtJM1/t4Y/ADRiicbxxgD2soEFo3VFne0LA==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-3ee66f6b.js"></script>
+    
+        <script crossorigin="anonymous" async="async" integrity="sha512-4GcSWGoe36+BoWho4gtJcByZe8j43w+lt2/PDe3rmBxRVSgD29YipDwuIywe8fvOd2b2CszBqaPGxSznUtE3Xg==" type="application/javascript" data-module-id="./drag-drop.js" data-src="https://github.githubassets.com/assets/drag-drop-e0671258.js"></script>
+        <script crossorigin="anonymous" async="async" integrity="sha512-3Vk1NFIOm+TBUMM6pTA6DCUwwLLnc/QIT8jpENm71InvSU8O4p2plDagpst1tH1l+9jOBnneaXZnAskA9a2b3w==" type="application/javascript" data-module-id="./gist-vendor.js" data-src="https://github.githubassets.com/assets/gist-vendor-dd593534.js"></script>
+        <script crossorigin="anonymous" async="async" integrity="sha512-urN6bhHnHu4C12A+cTH3dOp+CwLaycy2HUXr95hvu5pbYRdF8z6iR+UQcTZutQ6mZG3Njluw2MTZVCNmwcqh8g==" type="application/javascript" data-module-id="./randomColor.js" data-src="https://github.githubassets.com/assets/randomColor-bab37a6e.js"></script>
+    
+    
+  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+
+  </body>
+</html>
+
