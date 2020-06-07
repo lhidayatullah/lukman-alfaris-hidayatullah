@@ -1,15 +1,3 @@
 # lukman-alfaris-hidayatullah
-Tugas Akhir Web Corona
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/bag%201.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%201.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%202.1.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%202.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%202.1.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%203.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%204.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%20tidak.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%205.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%20tidak.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%206.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%20tidak%202.png)
-![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/hal%207.png)
+modul web persiapan UKL
+![Alt text](https://github.com/lhidayatullah/lukman-alfaris-hidayatullah/blob/master/Login%20Page%20-%20Google%20Chrome%2006-Jun-20%2010_25_50.png)
